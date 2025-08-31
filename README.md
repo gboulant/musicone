@@ -9,7 +9,7 @@ how to determine the note of a guitar pluck (defined by the string index
 and the fret index), and then calculate the frequency of this guitar
 note.
 
-**contact**: [Guillaume Boulant](mailto:gboulant@gmail.com)
+**contact**: [Guillaume Boulant](mailto:gboulant@gmail.com?subject=musicone)
 
 The project was initially motivated to test an adaptation of the
 [timiskhakov music](https://github.com/timiskhakov/music) project from
